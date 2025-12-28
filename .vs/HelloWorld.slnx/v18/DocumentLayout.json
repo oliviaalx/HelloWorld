@@ -3,8 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Olivia\\source\\repos\\HelloWorld\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2B556A8B-BD8F-425C-B7F2-06059E731076}|HelloWorld.vcxproj|C:\\Users\\Olivia\\source\\repos\\HelloWorld\\HelloWorld.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2B556A8B-BD8F-425C-B7F2-06059E731076}|HelloWorld.vcxproj|solutionrelative:HelloWorld.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{2B556A8B-BD8F-425C-B7F2-06059E731076}|HelloWorld.vcxproj|C:\\Users\\Olivia\\source\\repos\\HelloWorld\\controller.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2B556A8B-BD8F-425C-B7F2-06059E731076}|HelloWorld.vcxproj|solutionrelative:controller.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B556A8B-BD8F-425C-B7F2-06059E731076}|HelloWorld.vcxproj|C:\\Users\\Olivia\\source\\repos\\HelloWorld\\board.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2B556A8B-BD8F-425C-B7F2-06059E731076}|HelloWorld.vcxproj|solutionrelative:board.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B556A8B-BD8F-425C-B7F2-06059E731076}|HelloWorld.vcxproj|C:\\Users\\Olivia\\source\\repos\\HelloWorld\\board.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2B556A8B-BD8F-425C-B7F2-06059E731076}|HelloWorld.vcxproj|solutionrelative:board.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B556A8B-BD8F-425C-B7F2-06059E731076}|HelloWorld.vcxproj|C:\\Users\\Olivia\\source\\repos\\HelloWorld\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2B556A8B-BD8F-425C-B7F2-06059E731076}|HelloWorld.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B556A8B-BD8F-425C-B7F2-06059E731076}|HelloWorld.vcxproj|C:\\Users\\Olivia\\source\\repos\\HelloWorld\\controller.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2B556A8B-BD8F-425C-B7F2-06059E731076}|HelloWorld.vcxproj|solutionrelative:controller.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B556A8B-BD8F-425C-B7F2-06059E731076}|HelloWorld.vcxproj|C:\\Users\\Olivia\\source\\repos\\HelloWorld\\view.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2B556A8B-BD8F-425C-B7F2-06059E731076}|HelloWorld.vcxproj|solutionrelative:view.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B556A8B-BD8F-425C-B7F2-06059E731076}|HelloWorld.vcxproj|C:\\Users\\Olivia\\source\\repos\\HelloWorld\\view.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2B556A8B-BD8F-425C-B7F2-06059E731076}|HelloWorld.vcxproj|solutionrelative:view.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +38,97 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "HelloWorld.cpp",
-              "DocumentMoniker": "C:\\Users\\Olivia\\source\\repos\\HelloWorld\\HelloWorld.cpp",
-              "RelativeDocumentMoniker": "HelloWorld.cpp",
-              "ToolTip": "C:\\Users\\Olivia\\source\\repos\\HelloWorld\\HelloWorld.cpp",
-              "RelativeToolTip": "HelloWorld.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAQAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Olivia\\source\\repos\\HelloWorld\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\Olivia\\source\\repos\\HelloWorld\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-12-27T07:13:13.702Z",
+              "WhenOpened": "2025-12-28T22:57:26.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "controller.cpp",
+              "DocumentMoniker": "C:\\Users\\Olivia\\source\\repos\\HelloWorld\\controller.cpp",
+              "RelativeDocumentMoniker": "controller.cpp",
+              "ToolTip": "C:\\Users\\Olivia\\source\\repos\\HelloWorld\\controller.cpp",
+              "RelativeToolTip": "controller.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-28T22:52:56.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "view.cpp",
+              "DocumentMoniker": "C:\\Users\\Olivia\\source\\repos\\HelloWorld\\view.cpp",
+              "RelativeDocumentMoniker": "view.cpp",
+              "ToolTip": "C:\\Users\\Olivia\\source\\repos\\HelloWorld\\view.cpp",
+              "RelativeToolTip": "view.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-28T22:52:48.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "board.cpp",
+              "DocumentMoniker": "C:\\Users\\Olivia\\source\\repos\\HelloWorld\\board.cpp",
+              "RelativeDocumentMoniker": "board.cpp",
+              "ToolTip": "C:\\Users\\Olivia\\source\\repos\\HelloWorld\\board.cpp",
+              "RelativeToolTip": "board.cpp",
+              "ViewState": "AgIAADkAAAAAAAAAAAAgwEMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-28T22:52:36.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "controller.h",
+              "DocumentMoniker": "C:\\Users\\Olivia\\source\\repos\\HelloWorld\\controller.h",
+              "RelativeDocumentMoniker": "controller.h",
+              "ToolTip": "C:\\Users\\Olivia\\source\\repos\\HelloWorld\\controller.h",
+              "RelativeToolTip": "controller.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-28T22:52:10.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "view.h",
+              "DocumentMoniker": "C:\\Users\\Olivia\\source\\repos\\HelloWorld\\view.h",
+              "RelativeDocumentMoniker": "view.h",
+              "ToolTip": "C:\\Users\\Olivia\\source\\repos\\HelloWorld\\view.h",
+              "RelativeToolTip": "view.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-28T22:51:55.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "board.h",
+              "DocumentMoniker": "C:\\Users\\Olivia\\source\\repos\\HelloWorld\\board.h",
+              "RelativeDocumentMoniker": "board.h",
+              "ToolTip": "C:\\Users\\Olivia\\source\\repos\\HelloWorld\\board.h",
+              "RelativeToolTip": "board.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-28T22:51:25.087Z",
               "EditorCaption": ""
             }
           ]

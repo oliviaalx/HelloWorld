@@ -1,1 +1,4 @@
-C:\Users\Olivia\source\repos\HelloWorld\HelloWorld.cpp;C:\Users\Olivia\source\repos\HelloWorld\HelloWorld\x64\Debug\HelloWorld.obj
+C:\Users\Olivia\source\repos\HelloWorld\board.cpp;C:\Users\Olivia\source\repos\HelloWorld\HelloWorld\x64\Debug\board.obj
+C:\Users\Olivia\source\repos\HelloWorld\controller.cpp;C:\Users\Olivia\source\repos\HelloWorld\HelloWorld\x64\Debug\controller.obj
+C:\Users\Olivia\source\repos\HelloWorld\main.cpp;C:\Users\Olivia\source\repos\HelloWorld\HelloWorld\x64\Debug\main.obj
+C:\Users\Olivia\source\repos\HelloWorld\view.cpp;C:\Users\Olivia\source\repos\HelloWorld\HelloWorld\x64\Debug\view.obj
